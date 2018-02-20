@@ -1,0 +1,39 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/cameron/turing/2module/violations/lib/violation_reader.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        3,
+        3,
+        null,
+        null,
+        1,
+        null,
+        3,
+        null,
+        null,
+        1635,
+        null,
+        null,
+        null,
+        1,
+        546,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1519145807
+  }
+}
